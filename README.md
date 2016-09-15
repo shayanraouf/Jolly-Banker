@@ -1,2 +1,2 @@
 # Jolly-Banker
-Banking application which processes transactions using C++
+[Project description] (https://github.com/shayanraouf/Jolly-Banker/blob/master/Jolly%20Banker.pdf)
